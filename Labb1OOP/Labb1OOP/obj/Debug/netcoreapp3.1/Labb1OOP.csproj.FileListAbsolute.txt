@@ -1,0 +1,13 @@
+C:\Users\edvin.hasic\source\repos\Pizza\Labb1OOP\Labb1OOP\bin\Debug\netcoreapp3.1\Labb1OOP.exe
+C:\Users\edvin.hasic\source\repos\Pizza\Labb1OOP\Labb1OOP\bin\Debug\netcoreapp3.1\Labb1OOP.deps.json
+C:\Users\edvin.hasic\source\repos\Pizza\Labb1OOP\Labb1OOP\bin\Debug\netcoreapp3.1\Labb1OOP.runtimeconfig.json
+C:\Users\edvin.hasic\source\repos\Pizza\Labb1OOP\Labb1OOP\bin\Debug\netcoreapp3.1\Labb1OOP.runtimeconfig.dev.json
+C:\Users\edvin.hasic\source\repos\Pizza\Labb1OOP\Labb1OOP\bin\Debug\netcoreapp3.1\Labb1OOP.dll
+C:\Users\edvin.hasic\source\repos\Pizza\Labb1OOP\Labb1OOP\bin\Debug\netcoreapp3.1\Labb1OOP.pdb
+C:\Users\edvin.hasic\source\repos\Pizza\Labb1OOP\Labb1OOP\obj\Debug\netcoreapp3.1\Labb1OOP.csprojAssemblyReference.cache
+C:\Users\edvin.hasic\source\repos\Pizza\Labb1OOP\Labb1OOP\obj\Debug\netcoreapp3.1\Labb1OOP.AssemblyInfoInputs.cache
+C:\Users\edvin.hasic\source\repos\Pizza\Labb1OOP\Labb1OOP\obj\Debug\netcoreapp3.1\Labb1OOP.AssemblyInfo.cs
+C:\Users\edvin.hasic\source\repos\Pizza\Labb1OOP\Labb1OOP\obj\Debug\netcoreapp3.1\Labb1OOP.csproj.CoreCompileInputs.cache
+C:\Users\edvin.hasic\source\repos\Pizza\Labb1OOP\Labb1OOP\obj\Debug\netcoreapp3.1\Labb1OOP.dll
+C:\Users\edvin.hasic\source\repos\Pizza\Labb1OOP\Labb1OOP\obj\Debug\netcoreapp3.1\Labb1OOP.pdb
+C:\Users\edvin.hasic\source\repos\Pizza\Labb1OOP\Labb1OOP\obj\Debug\netcoreapp3.1\Labb1OOP.genruntimeconfig.cache
